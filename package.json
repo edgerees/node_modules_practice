@@ -1,0 +1,24 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "Node practice, initialize node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgerees/node_modules_practice.git"
+  },
+  "author": "Edrees Husseini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgerees/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/edgerees/node_modules_practice#readme",
+  "dependencies": {
+    "@ultraq/array-utils": "^2.1.0",
+    "create-gitignore": "^0.1.0"
+  }
+}
